@@ -1,7 +1,6 @@
 {
   "scripts": {
     "dokku": {
-      "postdeploy": "echo hi"
     }
   }
 }
