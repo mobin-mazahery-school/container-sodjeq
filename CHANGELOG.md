@@ -1,3 +1,15 @@
+# v0.0.13 (Wed Feb 18 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Update Dockerfile ([@mobin-mazahery-school](https://github.com/mobin-mazahery-school))
+
+#### Authors: 1
+
+- mobin mazahery ([@mobin-mazahery-school](https://github.com/mobin-mazahery-school))
+
+---
+
 # v0.0.12 (Wed Feb 18 2026)
 
 #### ⚠️ Pushed to `main`
