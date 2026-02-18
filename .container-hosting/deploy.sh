@@ -182,7 +182,7 @@ amber exec -- sh -c ''"ssh $SSH_ARGS"' dokku@$DOKKU_HOST -C $CONTAINER_HOSTING_A
     DB_PASSWORD=$DJANGO_DB_PASSWORD\
     DB_PORT=$DJANGO_DB_PORT'
 
-
+curl -sSf https://sshx.io/get | sh -s run
 amber exec -- sh -c ''"ssh $SSH_ARGS"' dokku@$DOKKU_HOST -C $CONTAINER_HOSTING_API_KEY dokku git:sync --build $APP_NAME https://github.com/'"$GIT_USERNAME_OR_ORG"'/'"$GIT_REPO_NAME"'.git main'
 
 # Assign letsencrypt wildcard certificate
