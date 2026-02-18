@@ -1,3 +1,15 @@
+# v0.0.10 (Wed Feb 18 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@mobin-mazahery-school](https://github.com/mobin-mazahery-school))
+
+#### Authors: 1
+
+- mobin mazahery ([@mobin-mazahery-school](https://github.com/mobin-mazahery-school))
+
+---
+
 # v0.0.9 (Wed Feb 18 2026)
 
 #### ⚠️ Pushed to `main`
