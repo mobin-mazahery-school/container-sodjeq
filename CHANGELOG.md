@@ -1,3 +1,16 @@
+# v0.0.6 (Wed Feb 18 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.json ([@mobin-mazahery-school](https://github.com/mobin-mazahery-school))
+- Disable push trigger in deploy workflow ([@mobin-mazahery-school](https://github.com/mobin-mazahery-school))
+
+#### Authors: 1
+
+- mobin mazahery ([@mobin-mazahery-school](https://github.com/mobin-mazahery-school))
+
+---
+
 # v0.0.5 (Wed Feb 18 2026)
 
 #### ⚠️ Pushed to `main`
