@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM python:3-alpine
+FROM python:3-bookworm
 ENV PYTHONUNBUFFERED=1
 WORKDIR /usr/src/app
 COPY requirements.txt /usr/src/app/
