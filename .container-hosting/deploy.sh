@@ -141,6 +141,7 @@ PATH=./bin:$PATH
 echo Setup ssh to talk to dokku host
 mkdir -p ~/.ssh
 amber -v exec -- sh -c 'ssh-keyscan $DOKKU_HOST >> ~/.ssh/known_hosts'
+echo "got to here"
 eval "$(ssh-agent -s)"
 ssh-add -D
 ssh-add - <<< "$DOKKU_SSH_PRIVATE_KEY"
